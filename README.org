@@ -1,0 +1,9 @@
+* utilities.print-tree
+
+Simple facilities for printing tree structures in an easy to read way.
+
+|---------+---------------------------------------------------------|
+| source  | git:https://github.com/scymtym/utilities.print-tree.git |
+| commit  | 5cb5faa                                                 |
+| systems | utilities.print-tree                                    |
+|---------+---------------------------------------------------------|
